@@ -1,0 +1,30 @@
+{
+  "ssds": [
+    {
+      "id": 1,
+      "name": "ssd",
+      "brand": "TEAM T-FORCE",
+      "model": "VULCAN G 512GB",
+      "thumbnail": "https://computerage.lk/wp-content/uploads/2021/01/Untitled-1-5.png",
+      "large": "",
+      "images": [
+        "https://computerage.lk/wp-content/uploads/2021/01/Untitled-1-5.png"
+      ],
+      "price": 190,
+      "energy": 100
+    },
+    {
+      "id": 2,
+      "name": "ssd",
+      "brand": "WD GREEN",
+      "model": "240GB SSD",
+      "thumbnail": "https://computerage.lk/wp-content/uploads/2021/01/Untitled-1-4.png",
+      "large": "",
+      "images": [
+        "https://computerage.lk/wp-content/uploads/2021/01/Untitled-1-4.png"
+      ],
+      "price": 180,
+      "energy": 100
+    }
+  ]
+}
